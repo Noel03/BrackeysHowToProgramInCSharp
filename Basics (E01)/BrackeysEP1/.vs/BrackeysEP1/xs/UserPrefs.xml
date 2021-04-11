@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B4E8DB60-55A9-42FE-AD7F-FB2589986142}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BrackeysEP1/Program.cs">
+    <Files>
+      <File FileName="BrackeysEP1/Program.cs" Line="7" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BrackeysEP1" expanded="True" selected="True">
+            <Node name="BrackeysEP1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BrackeysEP1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

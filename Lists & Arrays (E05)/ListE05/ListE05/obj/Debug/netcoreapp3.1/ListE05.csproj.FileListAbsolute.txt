@@ -1,0 +1,11 @@
+/Users/noel/Projects/ListE05/ListE05/bin/Debug/netcoreapp3.1/ListE05
+/Users/noel/Projects/ListE05/ListE05/bin/Debug/netcoreapp3.1/ListE05.deps.json
+/Users/noel/Projects/ListE05/ListE05/bin/Debug/netcoreapp3.1/ListE05.runtimeconfig.json
+/Users/noel/Projects/ListE05/ListE05/bin/Debug/netcoreapp3.1/ListE05.runtimeconfig.dev.json
+/Users/noel/Projects/ListE05/ListE05/bin/Debug/netcoreapp3.1/ListE05.dll
+/Users/noel/Projects/ListE05/ListE05/bin/Debug/netcoreapp3.1/ListE05.pdb
+/Users/noel/Projects/ListE05/ListE05/obj/Debug/netcoreapp3.1/ListE05.csprojAssemblyReference.cache
+/Users/noel/Projects/ListE05/ListE05/obj/Debug/netcoreapp3.1/ListE05.AssemblyInfoInputs.cache
+/Users/noel/Projects/ListE05/ListE05/obj/Debug/netcoreapp3.1/ListE05.AssemblyInfo.cs
+/Users/noel/Projects/ListE05/ListE05/obj/Debug/netcoreapp3.1/ListE05.dll
+/Users/noel/Projects/ListE05/ListE05/obj/Debug/netcoreapp3.1/ListE05.pdb

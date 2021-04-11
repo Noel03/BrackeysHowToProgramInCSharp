@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArrayAndListChallenge/1.0.0": {
+        "runtime": {
+          "ArrayAndListChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayAndListChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

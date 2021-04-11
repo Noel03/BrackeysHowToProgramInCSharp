@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BD6F7223-028A-4778-8234-D89E89DA27B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WizardClassGeneratorE07/Program.cs">
+    <Files>
+      <File FileName="WizardClassGeneratorE07/Program.cs" Line="48" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WizardClassGeneratorE07" expanded="True">
+            <Node name="WizardClassGeneratorE07" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WizardClassGeneratorE07 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

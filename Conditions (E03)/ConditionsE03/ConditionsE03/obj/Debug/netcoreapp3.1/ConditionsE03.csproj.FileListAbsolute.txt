@@ -1,0 +1,11 @@
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/bin/Debug/netcoreapp3.1/ConditionsE03
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/bin/Debug/netcoreapp3.1/ConditionsE03.deps.json
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/bin/Debug/netcoreapp3.1/ConditionsE03.runtimeconfig.json
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/bin/Debug/netcoreapp3.1/ConditionsE03.runtimeconfig.dev.json
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/bin/Debug/netcoreapp3.1/ConditionsE03.dll
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/bin/Debug/netcoreapp3.1/ConditionsE03.pdb
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/obj/Debug/netcoreapp3.1/ConditionsE03.csprojAssemblyReference.cache
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/obj/Debug/netcoreapp3.1/ConditionsE03.AssemblyInfoInputs.cache
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/obj/Debug/netcoreapp3.1/ConditionsE03.AssemblyInfo.cs
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/obj/Debug/netcoreapp3.1/ConditionsE03.dll
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03/ConditionsE03/obj/Debug/netcoreapp3.1/ConditionsE03.pdb

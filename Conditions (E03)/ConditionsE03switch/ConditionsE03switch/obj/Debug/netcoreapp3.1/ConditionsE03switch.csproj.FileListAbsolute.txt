@@ -1,0 +1,11 @@
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/bin/Debug/netcoreapp3.1/ConditionsE03switch
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/bin/Debug/netcoreapp3.1/ConditionsE03switch.deps.json
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/bin/Debug/netcoreapp3.1/ConditionsE03switch.runtimeconfig.json
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/bin/Debug/netcoreapp3.1/ConditionsE03switch.runtimeconfig.dev.json
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/bin/Debug/netcoreapp3.1/ConditionsE03switch.dll
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/bin/Debug/netcoreapp3.1/ConditionsE03switch.pdb
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/obj/Debug/netcoreapp3.1/ConditionsE03switch.csprojAssemblyReference.cache
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/obj/Debug/netcoreapp3.1/ConditionsE03switch.AssemblyInfoInputs.cache
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/obj/Debug/netcoreapp3.1/ConditionsE03switch.AssemblyInfo.cs
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/obj/Debug/netcoreapp3.1/ConditionsE03switch.dll
+/Users/noel/Projects/Brackey's - How to Program in C#/ConditionsE03switch/ConditionsE03switch/obj/Debug/netcoreapp3.1/ConditionsE03switch.pdb

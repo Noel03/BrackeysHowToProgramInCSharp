@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6D2C0951-D304-4540-8F45-332D06098BB1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConditionsE03Challenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConditionsE03Challenge/Program.cs">
+    <Files>
+      <File FileName="ConditionsE03Challenge/Program.cs" Line="29" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConditionsE03Challenge" expanded="True">
+            <Node name="ConditionsE03Challenge" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

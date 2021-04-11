@@ -1,0 +1,11 @@
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/bin/Debug/netcoreapp3.1/ConditionsE03Challenge
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/bin/Debug/netcoreapp3.1/ConditionsE03Challenge.deps.json
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/bin/Debug/netcoreapp3.1/ConditionsE03Challenge.runtimeconfig.json
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/bin/Debug/netcoreapp3.1/ConditionsE03Challenge.runtimeconfig.dev.json
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/bin/Debug/netcoreapp3.1/ConditionsE03Challenge.dll
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/bin/Debug/netcoreapp3.1/ConditionsE03Challenge.pdb
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/obj/Debug/netcoreapp3.1/ConditionsE03Challenge.csprojAssemblyReference.cache
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/obj/Debug/netcoreapp3.1/ConditionsE03Challenge.AssemblyInfoInputs.cache
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/obj/Debug/netcoreapp3.1/ConditionsE03Challenge.AssemblyInfo.cs
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/obj/Debug/netcoreapp3.1/ConditionsE03Challenge.dll
+/Users/noel/Projects/ConditionsE03Challenge/ConditionsE03Challenge/obj/Debug/netcoreapp3.1/ConditionsE03Challenge.pdb

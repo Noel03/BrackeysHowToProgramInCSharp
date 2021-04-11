@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4E178B1D-252B-4CEC-87F2-9B23ABC1E4D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoopsE04WhileLoops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoopsE04WhileLoops/Program.cs">
+    <Files>
+      <File FileName="LoopsE04WhileLoops/Program.cs" Line="31" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoopsE04WhileLoops" expanded="True">
+            <Node name="LoopsE04WhileLoops" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

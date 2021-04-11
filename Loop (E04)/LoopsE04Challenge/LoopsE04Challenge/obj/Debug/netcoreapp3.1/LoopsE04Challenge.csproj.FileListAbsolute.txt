@@ -1,0 +1,11 @@
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/bin/Debug/netcoreapp3.1/LoopsE04Challenge
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/bin/Debug/netcoreapp3.1/LoopsE04Challenge.deps.json
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/bin/Debug/netcoreapp3.1/LoopsE04Challenge.runtimeconfig.json
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/bin/Debug/netcoreapp3.1/LoopsE04Challenge.runtimeconfig.dev.json
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/bin/Debug/netcoreapp3.1/LoopsE04Challenge.dll
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/bin/Debug/netcoreapp3.1/LoopsE04Challenge.pdb
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/obj/Debug/netcoreapp3.1/LoopsE04Challenge.csprojAssemblyReference.cache
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/obj/Debug/netcoreapp3.1/LoopsE04Challenge.AssemblyInfoInputs.cache
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/obj/Debug/netcoreapp3.1/LoopsE04Challenge.AssemblyInfo.cs
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/obj/Debug/netcoreapp3.1/LoopsE04Challenge.dll
+/Users/noel/Projects/LoopsE04Challenge/LoopsE04Challenge/obj/Debug/netcoreapp3.1/LoopsE04Challenge.pdb

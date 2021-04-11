@@ -1,0 +1,11 @@
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/bin/Debug/netcoreapp3.1/LoopsE04WhileLoops
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/bin/Debug/netcoreapp3.1/LoopsE04WhileLoops.deps.json
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/bin/Debug/netcoreapp3.1/LoopsE04WhileLoops.runtimeconfig.json
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/bin/Debug/netcoreapp3.1/LoopsE04WhileLoops.runtimeconfig.dev.json
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/bin/Debug/netcoreapp3.1/LoopsE04WhileLoops.dll
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/bin/Debug/netcoreapp3.1/LoopsE04WhileLoops.pdb
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/obj/Debug/netcoreapp3.1/LoopsE04WhileLoops.csprojAssemblyReference.cache
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/obj/Debug/netcoreapp3.1/LoopsE04WhileLoops.AssemblyInfoInputs.cache
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/obj/Debug/netcoreapp3.1/LoopsE04WhileLoops.AssemblyInfo.cs
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/obj/Debug/netcoreapp3.1/LoopsE04WhileLoops.dll
+/Users/noel/Projects/LoopsE04WhileLoops/LoopsE04WhileLoops/obj/Debug/netcoreapp3.1/LoopsE04WhileLoops.pdb

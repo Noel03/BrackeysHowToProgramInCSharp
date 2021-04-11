@@ -1,0 +1,11 @@
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/bin/Debug/netcoreapp3.1/LoopsE04powerTo
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/bin/Debug/netcoreapp3.1/LoopsE04powerTo.deps.json
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/bin/Debug/netcoreapp3.1/LoopsE04powerTo.runtimeconfig.json
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/bin/Debug/netcoreapp3.1/LoopsE04powerTo.runtimeconfig.dev.json
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/bin/Debug/netcoreapp3.1/LoopsE04powerTo.dll
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/bin/Debug/netcoreapp3.1/LoopsE04powerTo.pdb
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/obj/Debug/netcoreapp3.1/LoopsE04powerTo.csprojAssemblyReference.cache
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/obj/Debug/netcoreapp3.1/LoopsE04powerTo.AssemblyInfoInputs.cache
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/obj/Debug/netcoreapp3.1/LoopsE04powerTo.AssemblyInfo.cs
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/obj/Debug/netcoreapp3.1/LoopsE04powerTo.dll
+/Users/noel/Projects/LoopsE04powerTo/LoopsE04powerTo/obj/Debug/netcoreapp3.1/LoopsE04powerTo.pdb

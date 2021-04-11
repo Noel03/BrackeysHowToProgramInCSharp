@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DDEBF527-E15F-463D-91E6-2B48CF7D1C1B}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoopsE04Challenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoopsE04Challenge/Program.cs">
+    <Files>
+      <File FileName="LoopsE04Challenge/Program.cs" Line="31" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoopsE04Challenge" expanded="True">
+            <Node name="LoopsE04Challenge" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/bin/Debug/netcoreapp3.1/ArraysUserAdding
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/bin/Debug/netcoreapp3.1/ArraysUserAdding.deps.json
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/bin/Debug/netcoreapp3.1/ArraysUserAdding.runtimeconfig.json
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/bin/Debug/netcoreapp3.1/ArraysUserAdding.runtimeconfig.dev.json
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/bin/Debug/netcoreapp3.1/ArraysUserAdding.dll
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/bin/Debug/netcoreapp3.1/ArraysUserAdding.pdb
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/obj/Debug/netcoreapp3.1/ArraysUserAdding.csprojAssemblyReference.cache
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/obj/Debug/netcoreapp3.1/ArraysUserAdding.AssemblyInfoInputs.cache
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/obj/Debug/netcoreapp3.1/ArraysUserAdding.AssemblyInfo.cs
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/obj/Debug/netcoreapp3.1/ArraysUserAdding.dll
+/Users/noel/Projects/ArraysUserAdding/ArraysUserAdding/obj/Debug/netcoreapp3.1/ArraysUserAdding.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C3B6DD61-A9C4-4BA6-9D76-AFAAC104EC21}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConditionsE03switch/Program.cs">
+    <Files>
+      <File FileName="ConditionsE03switch/Program.cs" Line="30" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConditionsE03switch" expanded="True">
+            <Node name="ConditionsE03switch" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConditionsE03switch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

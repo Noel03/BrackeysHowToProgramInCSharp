@@ -1,0 +1,11 @@
+/Users/noel/Projects/ArraysE05/ArraysE05/bin/Debug/netcoreapp3.1/ArraysE05
+/Users/noel/Projects/ArraysE05/ArraysE05/bin/Debug/netcoreapp3.1/ArraysE05.deps.json
+/Users/noel/Projects/ArraysE05/ArraysE05/bin/Debug/netcoreapp3.1/ArraysE05.runtimeconfig.json
+/Users/noel/Projects/ArraysE05/ArraysE05/bin/Debug/netcoreapp3.1/ArraysE05.runtimeconfig.dev.json
+/Users/noel/Projects/ArraysE05/ArraysE05/bin/Debug/netcoreapp3.1/ArraysE05.dll
+/Users/noel/Projects/ArraysE05/ArraysE05/bin/Debug/netcoreapp3.1/ArraysE05.pdb
+/Users/noel/Projects/ArraysE05/ArraysE05/obj/Debug/netcoreapp3.1/ArraysE05.csprojAssemblyReference.cache
+/Users/noel/Projects/ArraysE05/ArraysE05/obj/Debug/netcoreapp3.1/ArraysE05.AssemblyInfoInputs.cache
+/Users/noel/Projects/ArraysE05/ArraysE05/obj/Debug/netcoreapp3.1/ArraysE05.AssemblyInfo.cs
+/Users/noel/Projects/ArraysE05/ArraysE05/obj/Debug/netcoreapp3.1/ArraysE05.dll
+/Users/noel/Projects/ArraysE05/ArraysE05/obj/Debug/netcoreapp3.1/ArraysE05.pdb

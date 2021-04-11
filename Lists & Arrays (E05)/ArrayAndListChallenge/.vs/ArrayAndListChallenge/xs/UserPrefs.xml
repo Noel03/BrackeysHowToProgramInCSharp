@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C92FEEB0-2B2D-4620-8E39-F7A5A9DAEF74}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArrayAndListChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayAndListChallenge/Program.cs">
+    <Files>
+      <File FileName="ArrayAndListChallenge/Program.cs" Line="21" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrayAndListChallenge" expanded="True">
+            <Node name="ArrayAndListChallenge" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

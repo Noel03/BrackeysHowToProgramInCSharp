@@ -1,0 +1,11 @@
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/obj/Debug/netcoreapp3.1/WordsInSentenceE06.csprojAssemblyReference.cache
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/obj/Debug/netcoreapp3.1/WordsInSentenceE06.AssemblyInfoInputs.cache
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/obj/Debug/netcoreapp3.1/WordsInSentenceE06.AssemblyInfo.cs
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/bin/Debug/netcoreapp3.1/WordsInSentenceE06
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/bin/Debug/netcoreapp3.1/WordsInSentenceE06.deps.json
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/bin/Debug/netcoreapp3.1/WordsInSentenceE06.runtimeconfig.json
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/bin/Debug/netcoreapp3.1/WordsInSentenceE06.runtimeconfig.dev.json
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/bin/Debug/netcoreapp3.1/WordsInSentenceE06.dll
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/bin/Debug/netcoreapp3.1/WordsInSentenceE06.pdb
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/obj/Debug/netcoreapp3.1/WordsInSentenceE06.dll
+/Users/noel/Projects/WordsInSentenceE06/WordsInSentenceE06/obj/Debug/netcoreapp3.1/WordsInSentenceE06.pdb

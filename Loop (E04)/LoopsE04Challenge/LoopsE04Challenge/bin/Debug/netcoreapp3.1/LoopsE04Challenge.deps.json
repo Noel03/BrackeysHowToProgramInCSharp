@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LoopsE04Challenge/1.0.0": {
+        "runtime": {
+          "LoopsE04Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoopsE04Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

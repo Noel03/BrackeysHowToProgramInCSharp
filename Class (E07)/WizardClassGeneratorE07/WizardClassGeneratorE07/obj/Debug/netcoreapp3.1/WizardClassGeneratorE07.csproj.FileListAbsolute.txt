@@ -1,0 +1,22 @@
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.deps.json
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.runtimeconfig.json
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.runtimeconfig.dev.json
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.dll
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.pdb
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.csprojAssemblyReference.cache
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.AssemblyInfoInputs.cache
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.AssemblyInfo.cs
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.dll
+/Users/noel/Projects/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.pdb
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.deps.json
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.runtimeconfig.json
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.runtimeconfig.dev.json
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.dll
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/bin/Debug/netcoreapp3.1/WizardClassGeneratorE07.pdb
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.csprojAssemblyReference.cache
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.AssemblyInfoInputs.cache
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.AssemblyInfo.cs
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.dll
+/Users/noel/Projects/Brackey's - How to Program in C#/Class (E07)/WizardClassGeneratorE07/WizardClassGeneratorE07/obj/Debug/netcoreapp3.1/WizardClassGeneratorE07.pdb
